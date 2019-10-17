@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1541215650 source:c:\users\user\onedrive - universiti sains malaysia\programming\ivm v2\main.cpp
+	<iostream>
+	<istream>
+	<ctime>
+	<chrono>
+	<thread>
+	<string>
+	<cstdlib>
+	<fstream>
+	<iomanip>
+	<sstream>
+
+1542297311 source:f:\users\user\onedrive - universiti sains malaysia\programming\ivm v2\main.cpp
+	<iostream>
+	<ctime>
+	<string>
+	<cstdlib>
+	<fstream>
+	<iomanip>
+	<sstream>
+	<cmath>
+	<cctype>
+
